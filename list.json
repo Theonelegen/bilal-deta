@@ -29,8 +29,12 @@
     "<token>"
   ],
   "roles": {
-    "developer": [7615067790],
-    "owner": [],
+    "developer": [
+      7615067790
+    ],
+    "owner": [
+      8265449911
+    ],
     "ceo": [],
     "moderator": [],
     "partner": [],
