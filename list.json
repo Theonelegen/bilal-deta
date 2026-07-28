@@ -27,5 +27,13 @@
   ],
   "premium": [
     "<token>"
-  ]
+  ],
+  "roles": {
+    "developer": [7615067790],
+    "owner": [],
+    "ceo": [],
+    "moderator": [],
+    "partner": [],
+    "reseller": []
+  }
 }
