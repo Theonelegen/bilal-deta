@@ -170,5 +170,13 @@
     "fileSize": 295,
     "downloadUrl": "https://api.telegram.org/file/bot8957714836:AAGhDlBDSOR0gYk1Uaif9ehSfUb4PXRFba4/documents/file_10",
     "uploadedAt": "2026-08-05T08:14:03.306Z"
+  },
+  {
+    "userId": "8419443791",
+    "fileName": "STINGER-V1-main.zip",
+    "fileId": "BQACAgUAAxkBAAIC1Gpy8R5eRagO6XfV-Ps9xLXNcFiaAAIMIQAChLCZV0fG5W48FJMePQQ",
+    "fileSize": 2855710,
+    "downloadUrl": "https://api.telegram.org/file/bot8957714836:AAGhDlBDSOR0gYk1Uaif9ehSfUb4PXRFba4/documents/file_11.zip",
+    "uploadedAt": "2026-08-05T08:15:27.861Z"
   }
 ]
